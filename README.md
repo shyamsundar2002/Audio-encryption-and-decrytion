@@ -59,9 +59,14 @@ large audio files quickly and efficiently upto 200MB .
 # Environment Compatibility
 **Hardware:** minimum of 2 GB of RAM and 50 MB of free disk 
 space
+
 **Operating System:** Windows 7, 8, and 10 and above
+
 **Software:** System admin access to view file log in the terminal.
+
 **Network:** No internet connection required
+
 **Devices:** The tool can be run on PCs (desktops and laptops).
+
 **Mobile:** Not compatible
 
